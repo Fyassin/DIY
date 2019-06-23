@@ -4,14 +4,14 @@
 	font-family: "Helvetiva Neue", Helvetiva;
 	font-weight: 200; 
 	box-shadow: 0px 1px 3px #2a2a2a;
-	background: image_url('gravel.png');
+	background: image_url('grey_wash_wall.png');
 }
 
 .navbar-inverse a.navbar-brand {
 	font-family: 'gondola_sdregular', sans-serif;
 	font-weight: 100;
 	font-size: 26px;
-	color: black;
+	color: white;
 }
 
 .hero {
@@ -48,4 +48,26 @@ h1, h2, h3, h4, h5, h6, .navbar {
 .btn {
 	border-radius: 0;
 }
+
+.feature {
+	width: 100%;
+	padding-left: 5%;
+	padding-right: 5%;
+}
+
+body {
+	background: image_url('interlaced.png');
+	font-family: Constantia, "Lucida Bright", Lucidabright, "Lucida Serif", Lucida, "DejaVu Serif", "Bitstream Vera Serif", "Liberation Serif", Georgia, serif;
+
+}
+
+
+
+
+
+
+
+
+
+
 
