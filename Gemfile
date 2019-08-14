@@ -7,6 +7,9 @@ gem 'jquery-rails'
 # Bundle edge Rails instead: gem 'rails', github: 'rails/rails'
 gem 'simple_form'
 gem "mini_magick"
+gem 'carrierwave-aws'
+gem "figaro"
+gem "fog-aws"
 gem 'carrierwave', '>= 2.0.0.rc', '< 3.0'
 gem 'devise'
 gem 'rails', '~> 5.2.3'
