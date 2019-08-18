@@ -10,6 +10,7 @@ gem 'stripe'
 gem "mini_magick"
 gem 'carrierwave-aws'
 gem "figaro"
+gem 'ranked-model'
 gem "fog-aws"
 gem 'carrierwave', '>= 2.0.0.rc', '< 3.0'
 gem 'devise'
